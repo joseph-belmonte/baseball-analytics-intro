@@ -1,0 +1,7 @@
+https://www.powerchalk.com/downloads/pitchfx/players.xml
+https://www.powerchalk.com/downloads/pitchfx/inning_all.xml
+
+Please note that since this course was first introduced, the MLB Gameday files
+have become randomly inaccessible. For that reason, I have provided the needed 
+XML files at an alternative link. Use the alternative links above if you can't 
+access the MLB Gameday site or files.
